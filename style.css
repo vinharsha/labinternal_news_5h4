@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 191, 0);
+ }
+h2{
+    font-size: 50px;
+}
+form{
+    margin:10% 25% 25% 25%;
+    text-align: center;
+}
+input{
+    padding: 0.3em;
+    width:35%;
+}
